@@ -182,20 +182,3 @@ print(outputs["risk"].shape)         # (1, 4)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,30&height=100&section=footer" width="100%"/>
 </div>
-```
-
----
-
-## GitHub Pe Paste Karna Ka Tareeqa
-
-**Step 1:** `github.com/Abu-Sameer-66/FloodCastNet` kholo
-
-**Step 2:** `README.md` click karo → pencil icon
-
-**Step 3:** Sara purana content **Ctrl+A → Delete**
-
-**Step 4:** Upar wala poora content paste karo
-
-**Step 5:** Commit message:
-```
-docs: professional README with architecture and results
